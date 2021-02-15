@@ -6,3 +6,4 @@ for the API i have used the free API in api.openweathermap.org
 To-Do list :
 1 - adding error page in case of wrong user data.
 2 - adding front end using react "on my To list once i learn react "
+3 - fixing bug where the image is not appearing when entered from mobile.
